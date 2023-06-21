@@ -20,6 +20,10 @@ video{
   margin: auto;
 }
 
+.greeting{
+  text-align: center;
+}
+
 
 footer{
   min-height: 200px;
